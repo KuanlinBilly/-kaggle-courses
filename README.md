@@ -1,2 +1,2 @@
 # Kaggle Courses
-Here are my works. Programming exercise from Tutorials on Kaggle. 
+You can find my works here. Programming exercise from Tutorials on Kaggle. 
